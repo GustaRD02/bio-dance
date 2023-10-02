@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "biodance"
+        },
+        {
+            "path": "config-server"
+        },
+        {
+            "path": "eureka-server"
+        },
+        {
+            "path": "gateway"
+        },
+        {
+            "path": "artista"
+        }
+    ],
+    "settings": {
+        "java.configuration.updateBuildConfiguration": "interactive"
+    }
+}
